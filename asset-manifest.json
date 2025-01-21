@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ishanPortfolio/static/css/main.bf538fe7.css",
+    "main.js": "/ishanPortfolio/static/js/main.d96680a4.js",
+    "static/media/profile.JPEG": "/ishanPortfolio/static/media/profile.e081a327bf6d45cf3305.JPEG",
+    "index.html": "/ishanPortfolio/index.html",
+    "main.bf538fe7.css.map": "/ishanPortfolio/static/css/main.bf538fe7.css.map",
+    "main.d96680a4.js.map": "/ishanPortfolio/static/js/main.d96680a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.d96680a4.js"
+  ]
+}
